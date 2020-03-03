@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "Primeros pasos en NodeJS",
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/concu-unahur/nodejs-primeros-pasos.git"
+    "type": "git",
+    "url": "https://github.com/concu-unahur/nodejs-primeros-pasos.git"
   },
   "main": "index.js",
   "scripts": {
